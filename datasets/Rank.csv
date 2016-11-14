@@ -1,0 +1,212 @@
+School Name,Location,Global Ranking,Global Scores,Subject Name,Subject Ranking,Subject Scores
+Peking University,Beijing,53,74.6,Biology and Biochemistry,50,59.4
+Peking University,Beijing,53,74.6,Chemistry,10,87
+Peking University,Beijing,53,74.6,Clinical Medicine,100,56.7
+Peking University,Beijing,53,74.6,Computer Science,42,70
+Peking University,Beijing,53,74.6,Economics and Business,73,47.4
+Peking University,Beijing,53,74.6,Engineering,19,81.6
+Peking University,Beijing,53,74.6,Environment/Ecology,32,77
+Peking University,Beijing,53,74.6,Geosciences,17,81
+Peking University,Beijing,53,74.6,Immunology,173,34.4
+Peking University,Beijing,53,74.6,Materials Science,10,88.3
+Peking University,Beijing,53,74.6,Mathematics,21,81.8
+Peking University,Beijing,53,74.6,Microbiology,153,38.5
+Peking University,Beijing,53,74.6,Molecular Biology and Genetics,67,48
+Peking University,Beijing,53,74.6,Neuroscience and Behavior,129,36.5
+Peking University,Beijing,53,74.6,Pharmacology and Toxicology,21,74
+Peking University,Beijing,53,74.6,Physics,13,84.4
+Peking University,Beijing,53,74.6,Plant and Animal Science,51,79.4
+Peking University,Beijing,53,74.6,Psychiatry/Psychology,164,33.1
+Peking University,Beijing,53,74.6,Social Sciences and Public Health,75,58
+Peking University,Beijing,53,74.6,Space Science,76,56
+Peking University,Beijing,0,0,Agricultural Sciences,0,0
+Tsinghua University,Beijing,57,73.9,Biology and Biochemistry,51,59.1
+Tsinghua University,Beijing,57,73.9,Chemistry,6,90.2
+Tsinghua University,Beijing,57,73.9,Computer Science,2,98.2
+Tsinghua University,Beijing,57,73.9,Economics and Business,100,40.7
+Tsinghua University,Beijing,57,73.9,Engineering,1,100
+Tsinghua University,Beijing,57,73.9,Environment/Ecology,66,67.3
+Tsinghua University,Beijing,57,73.9,Geosciences,62,63.5
+Tsinghua University,Beijing,57,73.9,Materials Science,8,91.2
+Tsinghua University,Beijing,57,73.9,Mathematics,41,74.2
+Tsinghua University,Beijing,57,73.9,Molecular Biology and Genetics,87,44.5
+Tsinghua University,Beijing,57,73.9,Physics,24,80.8
+Tsinghua University,Beijing,57,73.9,Social Sciences and Public Health,165,47.7
+Tsinghua University,Beijing,57,73.9,Space Science,160,35.5
+Fudan University,Shanghai,121,67.4,Biology and Biochemistry,79,55
+Fudan University,Shanghai,121,67.4,Chemistry,20,82.2
+Fudan University,Shanghai,121,67.4,Clinical Medicine,124,54.6
+Fudan University,Shanghai,121,67.4,Computer Science,137,50.8
+Fudan University,Shanghai,121,67.4,Economics and Business,141,31.2
+Fudan University,Shanghai,121,67.4,Engineering,144,59.6
+Fudan University,Shanghai,121,67.4,Environment/Ecology,148,51.6
+Fudan University,Shanghai,121,67.4,Immunology,140,40.1
+Fudan University,Shanghai,121,67.4,Materials Science,3,95.7
+Fudan University,Shanghai,121,67.4,Mathematics,20,82.5
+Fudan University,Shanghai,121,67.4,Microbiology,114,44.4
+Fudan University,Shanghai,121,67.4,Molecular Biology and Genetics,74,46.5
+Fudan University,Shanghai,121,67.4,Neuroscience and Behavior,156,30.5
+Fudan University,Shanghai,121,67.4,Pharmacology and Toxicology,20,74.2
+Fudan University,Shanghai,121,67.4,Physics,144,65.2
+Fudan University,Shanghai,121,67.4,Plant and Animal Science,133,66.2
+Fudan University,Shanghai,121,67.4,Social Sciences and Public Health,182,45.6
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Biology and Biochemistry,201,41.4
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Chemistry,21,82.1
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Computer Science,59,66
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Engineering,29,78
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Geosciences,133,49.8
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Materials Science,20,81.3
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Mathematics,98,59.3
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Physics,23,81.4
+University of Science and Technology of China,"Hefei, Anhui",136,66.5,Space Science,133,43.5
+Shanghai Jiao Tong University,Shanghai,138,66.3,Agricultural Sciences,98,60.4
+Shanghai Jiao Tong University,Shanghai,138,66.3,Biology and Biochemistry,68,56.5
+Shanghai Jiao Tong University,Shanghai,138,66.3,Chemistry,47,68.9
+Shanghai Jiao Tong University,Shanghai,138,66.3,Clinical Medicine,126,54.5
+Shanghai Jiao Tong University,Shanghai,138,66.3,Computer Science,13,82.5
+Shanghai Jiao Tong University,Shanghai,138,66.3,Economics and Business,139,31.6
+Shanghai Jiao Tong University,Shanghai,138,66.3,Engineering,9,85.3
+Shanghai Jiao Tong University,Shanghai,138,66.3,Immunology,191,29.7
+Shanghai Jiao Tong University,Shanghai,138,66.3,Materials Science,13,86.2
+Shanghai Jiao Tong University,Shanghai,138,66.3,Mathematics,31,77.8
+Shanghai Jiao Tong University,Shanghai,138,66.3,Molecular Biology and Genetics,79,46.1
+Shanghai Jiao Tong University,Shanghai,138,66.3,Neuroscience and Behavior,180,27.2
+Shanghai Jiao Tong University,Shanghai,138,66.3,Pharmacology and Toxicology,28,70.6
+Shanghai Jiao Tong University,Shanghai,138,66.3,Physics,146,64.9
+Shanghai Jiao Tong University,Shanghai,138,66.3,Plant and Animal Science,195,59.4
+Shanghai Jiao Tong University,Shanghai,138,66.3,Social Sciences and Public Health,211,42
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Agricultural Sciences,7,82.7
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Biology and Biochemistry,96,52.7
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Chemistry,14,83.5
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Clinical Medicine,285,38.1
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Computer Science,15,82
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Economics and Business,176,25.7
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Engineering,5,90.2
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Environment/Ecology,113,58.4
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Immunology,168,34.9
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Materials Science,17,83.8
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Mathematics,51,71.2
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Microbiology,152,38.6
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Molecular Biology and Genetics,193,26
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Pharmacology and Toxicology,30,69.9
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Physics,179,61.3
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Plant and Animal Science,42,81.5
+Zhejiang University,"Hangzhou, Zhejiang",138,66.3,Social Sciences and Public Health,287,35.9
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Biology and Biochemistry,276,35.9
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Chemistry,16,83.2
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Clinical Medicine,366,30.4
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Computer Science,84,59.5
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Engineering,104,63.8
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Environment/Ecology,109,58.7
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Geosciences,39,70.6
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Materials Science,42,72.5
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Mathematics,88,61.6
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Physics,74,71.7
+Nanjing University,"Nanjing, Jiangsu",187,63.4,Space Science,159,35.9
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Biology and Biochemistry,185,42.7
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Chemistry,60,66.6
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Clinical Medicine,152,51.2
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Computer Science,127,53.4
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Engineering,211,52.5
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Environment/Ecology,174,46.1
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Immunology,166,35.1
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Materials Science,43,72.2
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Mathematics,87,62.1
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Microbiology,174,34.9
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Molecular Biology and Genetics,147,34.3
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Pharmacology and Toxicology,44,66.8
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Physics,238,55.6
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Plant and Animal Science,221,57
+Sun Yat-sen University,"Guangzhou, Guangdong",225,61.3,Social Sciences and Public Health,284,36.6
+Beijing Normal University,Beijing,286,58.4,Chemistry,206,48
+Beijing Normal University,Beijing,286,58.4,Engineering,347,40.8
+Beijing Normal University,Beijing,286,58.4,Environment/Ecology,78,63.9
+Beijing Normal University,Beijing,286,58.4,Geosciences,57,65
+Beijing Normal University,Beijing,286,58.4,Materials Science,354,32.2
+Beijing Normal University,Beijing,286,58.4,Mathematics,30,78
+Beijing Normal University,Beijing,286,58.4,Neuroscience and Behavior,97,42.8
+Beijing Normal University,Beijing,286,58.4,Physics,367,42.8
+Beijing Normal University,Beijing,286,58.4,Psychiatry/Psychology,178,31.4
+Beijing Normal University,Beijing,286,58.4,Social Sciences and Public Health,228,40.9
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Biology and Biochemistry,199,41.7
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Chemistry,115,57.7
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Clinical Medicine,238,41.6
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Computer Science,11,83.1
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Engineering,20,81.1
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Materials Science,45,71
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Mathematics,117,56.1
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Pharmacology and Toxicology,198,41
+Huazhong University of Science and Technology,"Wuhan, Hubei",295,57.9,Physics,354,44.2
+Harbin Institute of Technology,"Harbin, Heilongjiang",303,57.6,Biology and Biochemistry,282,35.5
+Harbin Institute of Technology,"Harbin, Heilongjiang",303,57.6,Chemistry,129,55.7
+Harbin Institute of Technology,"Harbin, Heilongjiang",303,57.6,Computer Science,44,69.5
+Harbin Institute of Technology,"Harbin, Heilongjiang",303,57.6,Engineering,7,87.9
+Harbin Institute of Technology,"Harbin, Heilongjiang",303,57.6,Environment/Ecology,195,42.1
+Harbin Institute of Technology,"Harbin, Heilongjiang",303,57.6,Materials Science,32,75.9
+Harbin Institute of Technology,"Harbin, Heilongjiang",303,57.6,Mathematics,109,57.2
+Harbin Institute of Technology,"Harbin, Heilongjiang",303,57.6,Physics,317,48.3
+Xiamen University,"Xiamen, Fujian",306,57.5,Biology and Biochemistry,290,34.8
+Xiamen University,"Xiamen, Fujian",306,57.5,Chemistry,32,74.9
+Xiamen University,"Xiamen, Fujian",306,57.5,Engineering,276,46.1
+Xiamen University,"Xiamen, Fujian",306,57.5,Materials Science,52,69.3
+Xiamen University,"Xiamen, Fujian",306,57.5,Mathematics,81,63
+Xiamen University,"Xiamen, Fujian",306,57.5,Plant and Animal Science,362,42.9
+Nankai University,"Nankai, Tianjin",319,57.1,Biology and Biochemistry,264,36.8
+Nankai University,"Nankai, Tianjin",319,57.1,Chemistry,36,74
+Nankai University,"Nankai, Tianjin",319,57.1,Engineering,201,54
+Nankai University,"Nankai, Tianjin",319,57.1,Environment/Ecology,152,51.1
+Nankai University,"Nankai, Tianjin",319,57.1,Materials Science,97,61.6
+Nankai University,"Nankai, Tianjin",319,57.1,Mathematics,46,72.6
+Nankai University,"Nankai, Tianjin",319,57.1,Physics,276,51.3
+Wuhan University,"Wuhan, Hubei",324,56.9,Biology and Biochemistry,200,41.5
+Wuhan University,"Wuhan, Hubei",324,56.9,Chemistry,50,68.5
+Wuhan University,"Wuhan, Hubei",324,56.9,Computer Science,124,53.9
+Wuhan University,"Wuhan, Hubei",324,56.9,Engineering,108,63.5
+Wuhan University,"Wuhan, Hubei",324,56.9,Geosciences,117,52.5
+Wuhan University,"Wuhan, Hubei",324,56.9,Materials Science,55,68.7
+Wuhan University,"Wuhan, Hubei",324,56.9,Mathematics,115,56.5
+Wuhan University,"Wuhan, Hubei",324,56.9,Pharmacology and Toxicology,150,48.9
+Wuhan University,"Wuhan, Hubei",324,56.9,Physics,376,41.3
+Wuhan University,"Wuhan, Hubei",324,56.9,Plant and Animal Science,388,40.1
+Wuhan University,"Wuhan, Hubei",324,56.9,Social Sciences and Public Health,356,29.6
+Tongji University,Shanghai,337,56.3,Biology and Biochemistry,264,36.8
+Tongji University,Shanghai,337,56.3,Chemistry,250,44
+Tongji University,Shanghai,337,56.3,Clinical Medicine,380,29.3
+Tongji University,Shanghai,337,56.3,Computer Science,100,56.7
+Tongji University,Shanghai,337,56.3,Engineering,30,77.9
+Tongji University,Shanghai,337,56.3,Environment/Ecology,199,41
+Tongji University,Shanghai,337,56.3,Geosciences,199,38.4
+Tongji University,Shanghai,337,56.3,Materials Science,110,59.4
+Xi'an Jiaotong University,"Xi'an, Shaanxi",346,55.9,Biology and Biochemistry,320,32.3
+Xi'an Jiaotong University,"Xi'an, Shaanxi",346,55.9,Chemistry,175,50.9
+Xi'an Jiaotong University,"Xi'an, Shaanxi",346,55.9,Computer Science,74,62.6
+Xi'an Jiaotong University,"Xi'an, Shaanxi",346,55.9,Engineering,36,75.8
+Xi'an Jiaotong University,"Xi'an, Shaanxi",346,55.9,Materials Science,46,70.9
+Xi'an Jiaotong University,"Xi'an, Shaanxi",346,55.9,Mathematics,121,55.7
+Xi'an Jiaotong University,"Xi'an, Shaanxi",346,55.9,Physics,372,41.8
+Shandong University,"Jinan, Shandong",364,55.3,Biology and Biochemistry,169,44.4
+Shandong University,"Jinan, Shandong",364,55.3,Chemistry,95,60.4
+Shandong University,"Jinan, Shandong",364,55.3,Clinical Medicine,290,37.5
+Shandong University,"Jinan, Shandong",364,55.3,Engineering,125,61.4
+Shandong University,"Jinan, Shandong",364,55.3,Materials Science,119,58.4
+Shandong University,"Jinan, Shandong",364,55.3,Mathematics,57,69.7
+Shandong University,"Jinan, Shandong",364,55.3,Pharmacology and Toxicology,93,56.7
+Shandong University,"Jinan, Shandong",364,55.3,Physics,156,63.9
+Southeast University,"Nanjing, Jiangsu",364,55.3,Biology and Biochemistry,347,29.4
+Southeast University,"Nanjing, Jiangsu",364,55.3,Chemistry,226,46.3
+Southeast University,"Nanjing, Jiangsu",364,55.3,Computer Science,29,75.1
+Southeast University,"Nanjing, Jiangsu",364,55.3,Engineering,73,80.1
+Southeast University,"Nanjing, Jiangsu",364,55.3,Materials Science,87,62.6
+Southeast University,"Nanjing, Jiangsu",364,55.3,Mathematics,127,54.5
+South University of Technology,"Guangzhou, Guangdong",394,53.9,Agricultural Sciences,21,78.1
+South University of Technology,"Guangzhou, Guangdong",394,53.9,Biology and Biochemistry,324,32.1
+South University of Technology,"Guangzhou, Guangdong",394,53.9,Chemistry,64,66.3
+South University of Technology,"Guangzhou, Guangdong",394,53.9,Computer Science,188,42.3
+South University of Technology,"Guangzhou, Guangdong",394,53.9,Engineering,53,70.7
+South University of Technology,"Guangzhou, Guangdong",394,53.9,Mathematics,71,64.9
+Dalian University of Technology,"Dalian, Liaoning",405,53.4,Chemistry,31,75.2
+Dalian University of Technology,"Dalian, Liaoning",405,53.4,Computer Science,128,52.7
+Dalian University of Technology,"Dalian, Liaoning",405,53.4,Engineering,49,72
+Dalian University of Technology,"Dalian, Liaoning",405,53.4,Materials Science,64,66.7
+Dalian University of Technology,"Dalian, Liaoning",405,53.4,Mathematics,176,43.9
+Dalian University of Technology,"Dalian, Liaoning",405,53.4,Physics,373,41.7

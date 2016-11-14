@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>IconFont</title>
+    <link rel="stylesheet" href="demo.css">
+    <link rel="stylesheet" href="iconfont.css">
+</head>
+<body>
+    <div class="main markdown">
+        <h1>IconFont 图标</h1>
+        <ul class="icon_lists clear">
+            
+                <li>
+                <i class="icon iconfont icon-science"></i>
+                    <div class="name">science</div>
+                    <div class="fontclass">.icon-science</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-business"></i>
+                    <div class="name">business</div>
+                    <div class="fontclass">.icon-business</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-mathematics"></i>
+                    <div class="name">mathematics</div>
+                    <div class="fontclass">.icon-mathematics</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-igenetics"></i>
+                    <div class="name">i-genetics</div>
+                    <div class="fontclass">.icon-igenetics</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-physics"></i>
+                    <div class="name">physics</div>
+                    <div class="fontclass">.icon-physics</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-environment"></i>
+                    <div class="name">environment </div>
+                    <div class="fontclass">.icon-environment</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-medicine"></i>
+                    <div class="name">medicine</div>
+                    <div class="fontclass">.icon-medicine</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-biology"></i>
+                    <div class="name">biology</div>
+                    <div class="fontclass">.icon-biology</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-icon3"></i>
+                    <div class="name">地球</div>
+                    <div class="fontclass">.icon-icon3</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-machineengineerno"></i>
+                    <div class="name">machine engineer no </div>
+                    <div class="fontclass">.icon-machineengineerno</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-dongzhiwu"></i>
+                    <div class="name">动植物</div>
+                    <div class="fontclass">.icon-dongzhiwu</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-xianghongai-pku"></i>
+                    <div class="name">北京大学</div>
+                    <div class="fontclass">.icon-xianghongai-pku</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-socialcontant-alt"></i>
+                    <div class="name">社会</div>
+                    <div class="fontclass">.icon-socialcontant-alt</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-jindu"></i>
+                    <div class="name">禁毒</div>
+                    <div class="fontclass">.icon-jindu</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-medicine1"></i>
+                    <div class="name">medicine</div>
+                    <div class="fontclass">.icon-medicine1</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-neural-network"></i>
+                    <div class="name">neural-network</div>
+                    <div class="fontclass">.icon-neural-network</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-xueshengtanxin"></i>
+                    <div class="name">学生谈心</div>
+                    <div class="fontclass">.icon-xueshengtanxin</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-computer"></i>
+                    <div class="name">computer</div>
+                    <div class="fontclass">.icon-computer</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-chemistry"></i>
+                    <div class="name">chemistry</div>
+                    <div class="fontclass">.icon-chemistry</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-shenjingneike"></i>
+                    <div class="name">神经内科</div>
+                    <div class="fontclass">.icon-shenjingneike</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-biology1"></i>
+                    <div class="name">biology</div>
+                    <div class="fontclass">.icon-biology1</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-seo-marketing-business-geo-tagging-globe-tag"></i>
+                    <div class="name">seo-marketing-business-geo-tagging-globe-tag</div>
+                    <div class="fontclass">.icon-seo-marketing-business-geo-tagging-globe-tag</div>
+                </li>
+            
+        </ul>
+
+        <h2 id="font-class-">font-class引用</h2>
+        <hr>
+
+        <p>font-class是unicode使用方式的一种变种，主要是解决unicode书写不直观，语意不明确的问题。</p>
+        <p>与unicode使用方式相比，具有如下特点：</p>
+        <ul>
+        <li>兼容性良好，支持ie8+，及所有现代浏览器。</li>
+        <li>相比于unicode语意明确，书写更直观。可以很容易分辨这个icon是什么。</li>
+        <li>因为使用class来定义图标，所以当要替换图标时，只需要修改class里面的unicode引用。</li>
+        <li>不过因为本质上还是使用的字体，所以多色图标还是不支持的。</li>
+        </ul>
+        <p>使用步骤如下：</p>
+        <h3 id="-fontclass-">第一步：引入项目下面生成的fontclass代码：</h3>
+
+
+        <pre><code class="lang-js hljs javascript"><span class="hljs-comment">&lt;link rel="stylesheet" type="text/css" href="./iconfont.css"&gt;</span></code></pre>
+        <h3 id="-">第二步：挑选相应图标并获取类名，应用于页面：</h3>
+        <pre><code class="lang-css hljs">&lt;<span class="hljs-selector-tag">i</span> <span class="hljs-selector-tag">class</span>="<span class="hljs-selector-tag">iconfont</span> <span class="hljs-selector-tag">icon-xxx</span>"&gt;&lt;/<span class="hljs-selector-tag">i</span>&gt;</code></pre>
+        <blockquote>
+        <p>实际情况中"iconfont"（font-family）需要修改为你项目下的font-family。可以通过编辑项目查看，默认是"iconfont"。</p>
+        </blockquote>
+    </div>
+</body>
+</html>
