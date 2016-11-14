@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>University Visualization</title>
+	<link rel="stylesheet" href="libs/bootstrap-dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="libs/jquery-ui/jquery-ui.css">
+	<link rel="stylesheet/less" type="text/css" href="css/less/main.less">
+	<link rel="stylesheet/less" type="text/css" href="css/less/university_histogram.less">
+	<link rel="stylesheet/less" type="text/css" href="css/less/subject_histogram.less">
+	<link rel="stylesheet/less" type="text/css" href="css/less/subject_university.less">
+	<link rel="stylesheet/less" type="text/css" href="css/less/university_MDS.less">
+	<link rel="stylesheet/less" type="text/css" href="css/less/subject_histogram.less">
+	<link rel="stylesheet" type="text/css" href="css/less/star_glyph.less">
+	<link rel="stylesheet" type="text/css" href="css/subj-icon/iconfont.css">
+</head>
+<body>
+	<nav class="navbar navbar-inverse">
+	  <div class="container-fluid">
+	    <div class="navbar-header">
+	      <a class="navbar-brand" href="#">University Visualization</a>
+	    </div>
+	    <p class="navbar-text navbar-right">Peking University</p>
+	  </div>
+	</nav>    <div></div>
+	<div id = "content">
+	  <div id = "div-subj-histogram-icon">
+	  </div>
+	  <div id = "div-univ-histogram-icon">
+	  </div>
+	  <div id = "univ-subj-histogram">
+	  	<svg id = "svg-univ-subj-histogram"></svg>
+	  </div>
+	  <div id = "scatter-plot">
+	  	<svg id = "svg-scatter-plot"></svg>
+	  </div>
+	  <div id = "subject-histogram">
+	  	<form id = "transform-control">
+		  <label><input type="radio" name="mode" value="subject"> Subject</label>
+		  <label><input type="radio" name="mode" value="university" checked> University</label>
+		</form>
+	  	<svg id = "svg-subject-histogram"></svg>
+	  </div>
+	</div>
+	<script type="text/javascript" src="libs/MDS/numeric.js"></script>
+    <script type="text/javascript" src="libs/MDS/mds.js"></script>
+	<script type="text/javascript" src="libs/d3-dist/d3.min.js"></script>
+	<script type="text/javascript" src="libs/jquery-dist/jquery.min.js"></script>
+	<script type="text/javascript" src="libs/underscore/underscore-min.js"></script>
+	<script type="text/javascript" src="libs/d3-tooltip/d3.tip.js"></script>
+	<script type="text/javascript" src="libs/less-dist/less.min.js"></script>
+	<script type="text/javascript" src="libs/d3-starPlot/d3-starPlot.js"></script>
+	<script type="text/javascript" src="scripts/dataCenter.js"></script>
+<!-- 	<script type="text/javascript" src="scripts/university_histogram.js"></script>
+	<script type="text/javascript" src="scripts/subject_histogram.js"></script>
+	<script type="text/javascript" src="scripts/university_small_multiple.js"></script> -->
+	<script type="text/javascript" src="scripts/univ_subj_histogram.js"></script>
+	<script type="text/javascript" src="scripts/university_MDS.js"></script>
+	<script type="text/javascript" src="scripts/subj_histogram.js"></script>
+	<script type="text/javascript" src="scripts/main.js"></script>
+</body>
