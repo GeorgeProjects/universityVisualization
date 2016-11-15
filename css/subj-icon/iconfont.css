@@ -1,0 +1,62 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1478802762305'); /* IE9*/
+  src: url('iconfont.eot?t=1478802762305#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1478802762305') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1478802762305') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1478802762305#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-science:before { content: "\e61c"; }
+
+.icon-business:before { content: "\e612"; }
+
+.icon-mathematics:before { content: "\e60a"; }
+
+.icon-igenetics:before { content: "\e80a"; }
+
+.icon-physics:before { content: "\e68d"; }
+
+.icon-environment:before { content: "\e625"; }
+
+.icon-medicine:before { content: "\e66a"; }
+
+.icon-biology:before { content: "\e606"; }
+
+.icon-icon3:before { content: "\e607"; }
+
+.icon-machineengineerno:before { content: "\e6d8"; }
+
+.icon-dongzhiwu:before { content: "\e67b"; }
+
+.icon-xianghongai-pku:before { content: "\e621"; }
+
+.icon-socialcontant-alt:before { content: "\e624"; }
+
+.icon-jindu:before { content: "\e896"; }
+
+.icon-medicine1:before { content: "\e6da"; }
+
+.icon-neural-network:before { content: "\e664"; }
+
+.icon-xueshengtanxin:before { content: "\e637"; }
+
+.icon-computer:before { content: "\e622"; }
+
+.icon-chemistry:before { content: "\e6e9"; }
+
+.icon-shenjingneike:before { content: "\e734"; }
+
+.icon-biology1:before { content: "\e626"; }
+
+.icon-seo-marketing-business-geo-tagging-globe-tag:before { content: "\e619"; }
+
